@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio 09</h1>
+<h1 align="center"> RocketSeat - Bora Codar - Desafio 09</h1>
 
 <h2 align="center"> #boraCodar um conversor de moedas</h2>
 
@@ -40,5 +40,7 @@ Conversor de moedas
 ## Deploy
 
 ✅ [Github](https://github.com/amesq01/boracodar---desafio09)
+
+✅ [RocketSeat - Bora Codar](https://www.rocketseat.com.br/boracodar#)
 
 Adailton Mesquita
