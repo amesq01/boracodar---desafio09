@@ -82,6 +82,7 @@ h2 {
 
 #chart {
   margin-top: 24px;
+  width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -91,8 +92,5 @@ h2 {
   main {
     padding: 64px 80px;
     gap: 64px;
-  }
-  #chart {
-    width: 100%;
   }
 }
